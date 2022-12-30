@@ -2,9 +2,7 @@
 
 void Main()
 {
-	var inputFile = @"C:\Users\User\Documents\Workspace\AdeventOfCode\Day2\input.in";
-	
-	// A X
+	var inputFile = @"PATH_TO_INPUT_FILE";
 	
 	var firstHandMap = new Dictionary<string,Hand>
 	{
